@@ -4,4 +4,4 @@
 
 def test_activate():
     """Test activation under ideal conditions."""
-    pass
+    assert False
